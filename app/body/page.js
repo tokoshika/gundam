@@ -1,9 +1,9 @@
 import Image from "next/image";
-import image1 from "../../public/IMG_2291.jpg";
-import image3 from "../../public/IMG_2293.jpg";
-import image4 from "../../public/IMG_2294.jpg";
-import image5 from "../../public/IMG_2298.jpg";
-import image6 from "../../public/IMG_2299.jpg";
+import image1 from "../../public/IMG_2291.JPG";
+import image3 from "../../public/IMG_2293.JPG";
+import image4 from "../../public/IMG_2294.JPG";
+import image5 from "../../public/IMG_2298.JPG";
+import image6 from "../../public/IMG_2299.JPG";
 
 export default function Body() {
   return (

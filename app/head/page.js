@@ -1,7 +1,7 @@
 import Image from "next/image";
-import image1 from "../../public/IMG_2288.jpg";
-import image2 from "../../public/IMG_2289.jpg";
-import image3 from "../../public/IMG_2290.jpg";
+import image1 from "../../public/IMG_2288.JPG";
+import image2 from "../../public/IMG_2289.JPG";
+import image3 from "../../public/IMG_2290.JPG";
 export default function Head() {
   return (
     <>
