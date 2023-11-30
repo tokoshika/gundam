@@ -8,7 +8,7 @@ import image6 from "../../public/IMG_2299.jpg";
 export default function Body() {
   return (
     <>
-      <h1>ボディを作ろう</h1>
+      <h1>ボディを作ろう!</h1>
       <div>
         <p>（1）△の形をあわせよう</p>
         <p>
