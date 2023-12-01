@@ -17,7 +17,7 @@ export default function Body() {
         <Image
           className="image"
           width="648"
-          height="450"
+          height="100%"
           src={image1}
           alt="ko"
         />
@@ -27,8 +27,8 @@ export default function Body() {
         <p>（2）黄色いパーツも△の穴に合わせて</p>
         <Image
           className="image"
-          width="648"
-          height="450"
+          width="650"
+          height="100%"
           src={image3}
           alt="ko"
         />
@@ -40,8 +40,8 @@ export default function Body() {
         </p>
         <Image
           className="image"
-          width="648"
-          height="450"
+          width="650"
+          height="100%"
           src={image4}
           alt="ko"
         />
@@ -53,8 +53,8 @@ export default function Body() {
         </p>
         <Image
           className="image"
-          width="648"
-          height="450"
+          width="650"
+          height="100%"
           src={image5}
           alt="ko"
         />
@@ -64,8 +64,8 @@ export default function Body() {
 
         <Image
           className="image"
-          width="648"
-          height="450"
+          width="650"
+          height="100%"
           src={image6}
           alt="ko"
         />

@@ -13,8 +13,8 @@ export default function Head() {
         </p>
         <Image
           className="image"
-          width="360"
-          height="250"
+          width="650"
+          height="100%"
           src={image1}
           alt="ko"
         />
@@ -23,8 +23,8 @@ export default function Head() {
         <p>（2）左が顔の正面です</p>
         <Image
           className="image"
-          width="360"
-          height="250"
+          width="650"
+          height="100%"
           src={image2}
           alt="ko"
         />
@@ -33,8 +33,8 @@ export default function Head() {
         <p>（3）顔の完成です</p>
         <Image
           className="image"
-          width="360"
-          height="250"
+          width="650"
+          height="100%"
           src={image3}
           alt="ko"
         />

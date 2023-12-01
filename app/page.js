@@ -14,7 +14,7 @@ export default function Page() {
         src={bandai}
         alt="ko"
       />
-      <br/>
+      <br />
       <Image
         className="image"
         width="650"
@@ -22,6 +22,7 @@ export default function Page() {
         src={localImage}
         alt="ko"
       />
+
       <div className="makeGundam">
         <Iframe
           url="https://api01-platform.stream.co.jp/apiservice/plt3/NjY2Mw%3d%3d%23MzI%3d%23280%23168%230%233FE2A0D9E600%23MDoyOjc6YTpmOzEwOzEwOzEw%23"
