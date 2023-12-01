@@ -3,6 +3,7 @@ import Link from "next/link";
 export default function Nav() {
   return (
     <>
+    <div className="nav">
       <Link className="link" href="/">
         Home
       </Link>
@@ -21,6 +22,7 @@ export default function Nav() {
       <Link className="link" href="legs/">
         あし
       </Link>
+      </div>
     </>
   );
 }
