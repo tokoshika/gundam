@@ -1,28 +1,30 @@
 body {
   text-align: center;
-  background-color: rgb(32, 31, 31);
+  background-color: rgb(0, 51, 102);
 }
 
 h1 {
-  color: skyblue;
+  color: rgb(242, 250, 239);
 }
 
 p {
-  color: white;
+  color: rgb(242, 250, 239);
 }
 
 .link {
   text-decoration: none;
-  margin-left: 1rem;
-  color: white;
+
+  margin-left: 2rem;
+  font-size: 1.5rem;
+  color: rgb(228, 115, 125);
 }
 
 .image {
   border-radius: 5px;
-  border: solid rgb(49, 46, 46);
+  border: solid rgb(196, 205, 193);
   opacity: 85%;
 }
 
 span {
-  color: tomato;
+  color: yellow;
 }
