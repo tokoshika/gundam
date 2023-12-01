@@ -14,6 +14,7 @@ export default function Page() {
         src={bandai}
         alt="ko"
       />
+      <br/>
       <Image
         className="image"
         width="650"
