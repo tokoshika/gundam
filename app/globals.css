@@ -40,3 +40,15 @@ p {
 span {
   color: yellow;
 }
+
+.gundam-link {
+  text-decoration: none;
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+.gundam-btn{
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+}

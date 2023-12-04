@@ -1,4 +1,5 @@
 import { Inter } from "next/font/google";
+import { Noto_Sans_JP } from '@next/font/google';
 import "./globals.css";
 import Nav from "../components/Nav";
 
@@ -12,7 +13,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="ja">
-      <body>
+      <body className={inter.className}>
         <Nav />
         <hr></hr>
         {children}

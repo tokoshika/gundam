@@ -5,7 +5,7 @@ export default function Nav() {
     <>
       <div className="nav">
         <Link className="link" href="/">
-          ほーむ
+          ホーム
         </Link>
         <Link className="link" href="head/">
           あたま
@@ -21,6 +21,9 @@ export default function Nav() {
         </Link>
         <Link className="link" href="legs/">
           あし
+        </Link>
+        <Link className="link" href="photo/">
+          写真投稿
         </Link>
       </div>
     </>

@@ -5,7 +5,7 @@ import image3 from "../../public/IMG_2290.JPG";
 export default function Head() {
   return (
     <>
-      <h1>頭を作ろう</h1>
+      <h1>あたまを作ろう</h1>
       <div>
         <p>（1）形をよく見て、さしこもう</p>
         <p>
