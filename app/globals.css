@@ -47,8 +47,17 @@ span {
   margin-top: 1rem;
 }
 
-.gundam-btn{
+.gundam-link:hover {
+  color: yellow;
+}
+
+.gundam-btn {
   margin-top: 1.5rem;
   padding: 1rem;
   border-radius: 5px;
+}
+
+.gundam-btn:hover {
+  color: yellow;
+  background-color: red;
 }
